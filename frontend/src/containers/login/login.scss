@@ -1,0 +1,13 @@
+.login {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap column;
+  align-items: center;
+  border: solid black 2px;
+  form {
+    border: solid black 2px;
+  }
+  input {
+    width: 100%;
+  }
+}
